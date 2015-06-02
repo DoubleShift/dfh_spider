@@ -1,0 +1,1 @@
+{'picture': [u'http://www.dfh.fi/media/catalog/product/cache/2/thumbnail/380x/9df78eab33525d08d6e5fb8d27136e95/8/9/899.png'], 'name': [u'\u4e49\u7f8e \u8349\u8393 \u6cd5\u5170\u9165 45g'], 'price': u'\u20ac 2.95', 'score': [u'3'], 'date': [u'2015-09-04'], 'stock': [u'\u6709\u8d27']}
