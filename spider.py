@@ -3,6 +3,7 @@
 import urllib2
 import re
 
+
 #抓取
 class Spider:
  
@@ -68,4 +69,4 @@ for i in contents:
     content = spider.getDetail(i)
     spider.save(content)
 
-# spider.save(spider.getDetail('http://www.dfh.fi/simplified/updates/1050.html'))
+spider.save(spider.getDetail('http://www.dfh.fi/simplified/updates/1050.html'))
