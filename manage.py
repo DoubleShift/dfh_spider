@@ -10,7 +10,7 @@ from flask.ext.script import Manager
 
 from config import SQLALCHEMY_DATABASE_URI
 from config import SQLALCHEMY_MIGRATE_REPO
-from app import app, db
+from main import app, db
 
 
 manager = Manager(app)

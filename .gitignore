@@ -1,5 +1,6 @@
 log.txt
 dfh_spider_env/
+*.pyc
 
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion
 

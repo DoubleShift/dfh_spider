@@ -3,13 +3,12 @@
 
 
 import logging
-
 class CLog:
 
    #   print logging & write logging to log.txt
    def __init__(self):
       self.logger = logging.getLogger()
-      fileHandler = logging.FileHandler(app.config['LOG_PATH'])
+      fileHandler = logging.FileHandler('log.txt')
       formatHandler = logging.Formatter('%(asctime)s %(levelname)s: %(message)s')
       fileHandler.setFormatter(formatHandler)
 
